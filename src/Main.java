@@ -83,7 +83,7 @@ public class Main {
            System.out.println("Число " + one + " болшее из трех чисел");
        }
        if (two > one && two > three){
-               System.out.println("Число " +two+ " болшее из трех чисел");
+               System.out.println("Число " + two + " болшее из трех чисел");
            }
        if (three > one && three > two){
            System.out.println("Число " +three+ " болшее из трех чисел");
